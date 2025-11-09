@@ -1,6 +1,6 @@
-# Distributed Banking System with Byzantine Fault Tolerance
+# ShardVault - Byzantine-Fault-Tolerant Distributed Banking
 
-A distributed banking system implemented in Go that provides Byzantine fault tolerance (BFT) using the Practical Byzantine Fault Tolerance (PBFT) consensus algorithm and Two-Phase Commit (2PC) protocol for cross-shard transactions.
+A distributed banking system in Go featuring PBFT consensus and 2PC protocol for cross-shard transactions. Built with threshold signatures, cryptographic security, and Byzantine failure tolerance for reliable distributed financial operations.
 
 ## Table of Contents
 
@@ -740,4 +740,4 @@ This project was developed as part of a distributed systems course/lab assignmen
 ---
 
 **Author:** Sai Charan Jakkula  
-**Project:** Distributed Banking System with 2PC and Byzantine Fault Tolerance
+**Project:** ShardVault - Byzantine-Fault-Tolerant Distributed Banking
